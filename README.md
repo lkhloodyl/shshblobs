@@ -1,3 +1,4 @@
+# YOU NEED TO MAKE A FOLDER CALLED "blobs" TO SAVE THE BLOBS IN IT.
 # shshblobs
 This python script will allow you to save shsh blobs for your device. Works with Python 2.7 100% Did not test it for Python 3 but it should work fine.
 
